@@ -1,4 +1,4 @@
-# 🧠 Differential Equation Solver with PINNs
+# Differential Equation Solver with PINNs
 
 Hey there! 👋  
 This is a simple and interactive app I built using **Physics-Informed Neural Networks (PINNs)** to solve differential equations.
