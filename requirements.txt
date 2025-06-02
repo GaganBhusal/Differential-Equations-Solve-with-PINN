@@ -257,6 +257,7 @@ platformdirs @ file:///work/perseverance-python-buildout/croot/platformdirs_1701
 plotly @ file:///croot/plotly_1718136942809/work
 pluggy @ file:///work/perseverance-python-buildout/croot/pluggy_1698805497733/work
 ply @ file:///work/perseverance-python-buildout/croot/ply_1698846188635/work
+pooch==1.8.2
 prometheus-client @ file:///work/perseverance-python-buildout/croot/prometheus_client_1698865353814/work
 prompt-toolkit @ file:///croot/prompt-toolkit_1704404351921/work
 Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
@@ -312,6 +313,7 @@ pytoolconfig @ file:///croot/pytoolconfig_1701728692402/work
 pytube==15.0.0
 PyTurboJPEG==1.6.4
 pytz @ file:///croot/pytz_1713974312559/work
+pyvista==0.45.2
 pyviz_comms @ file:///croot/pyviz_comms_1711136832766/work
 pywavelets @ file:///croot/pywavelets_1705049820073/work
 pyxdg @ file:///tmp/build/80754af9/pyxdg_1603822279816/work
@@ -341,6 +343,7 @@ s3fs @ file:///croot/s3fs_1714466037529/work
 scikit-image @ file:///croot/scikit-image_1718285223463/work
 scikit-learn @ file:///croot/scikit-learn_1714164736727/work
 scipy @ file:///croot/scipy_1717521478074/work/dist/scipy-1.13.1-cp312-cp312-linux_x86_64.whl#sha256=a60c1bdf983ee297b25e41830d00cc2af50f00bcb47e55578703fef1594ec56e
+scooby==0.10.1
 Scrapy @ file:///croot/scrapy_1708714682090/work
 screeninfo==0.8.1
 seaborn @ file:///croot/seaborn_1718302919398/work
@@ -414,6 +417,7 @@ ujson @ file:///croot/ujson_1717597529825/work
 unicodedata2 @ file:///croot/unicodedata2_1713212950228/work
 Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
 urllib3 @ file:///croot/urllib3_1718912636303/work
+vtk==9.4.2
 w3lib @ file:///Users/ktietz/demo/mc3/conda-bld/w3lib_1629359764703/work
 watchdog @ file:///croot/watchdog_1717166512516/work
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work

@@ -7,7 +7,7 @@ import mpld3
 import torch
 import torch.nn as nn
 
-from HeatEquation1D import StreamlitPage
+from webPageClass import StreamlitPage
 from HeatEquation1D import PINN
 
 
@@ -72,7 +72,7 @@ class mainPage(StreamlitPage):
             ),
             scene=dict(
                 xaxis_title='Length',
-                yaxis_title='Time'
+                yaxis_title='Time',
                 zaxis_title='Temperature',
                 xaxis=dict(showgrid=True, gridcolor='rgba(200,200,200,0.4)', backgroundcolor="rgba(250,250,250,1)"),
                 yaxis=dict(showgrid=True, gridcolor='rgba(200,200,200,0.4)', backgroundcolor="rgba(250,250,250,1)"),
