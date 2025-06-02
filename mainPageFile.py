@@ -3,7 +3,6 @@ import streamlit.components.v1 as components
 import plotly.graph_objects as go
 
 import numpy as np
-import mpld3
 import torch
 import torch.nn as nn
 
