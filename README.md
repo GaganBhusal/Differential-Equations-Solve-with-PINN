@@ -1,17 +1,20 @@
-# Differential Equation Solver with PINNs
+# Physics-Informed Neural Networks for Differential Equations
 
-Hey there! 👋  
-This is a simple and interactive app I built using **Physics-Informed Neural Networks (PINNs)** to solve differential equations.
+**Author:** Gagan Bhusal  
+**Live Demo:** [App](https://differential.streamlit.app/)
+
+---
+
+## What's This Project About?
+
+Hello, This is my project based on Physics-Informed Neural Networks (PINNs) and how they can solve differential equations.
+
+Basically, I built an interactive web app that teaches a neural network to solve the 1D heat equation while actually understanding the physics behind it.
 
 Right now, it supports the **1D Heat Equation**, but I’m planning to add more equations as I go. The whole idea is based on the PINN paper by Raissi et al., and I’ve tried to make the app user-friendly so anyone can play around with it.
 
 ---
 
-## Try it Out!
-
-🔗 **Live App**: [https://differential.streamlit.app/](https://differential.streamlit.app/)
-
----
 
 ## What You Can Do
 
