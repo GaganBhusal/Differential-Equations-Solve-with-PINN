@@ -31,8 +31,8 @@ class mainPage(StreamlitPage):
         
         if self.page.value_entered:
             
-            self.x, self.t, self.ic0, self.bc0, self.bc1 = self.page.getValues()
-            self.HE1D = PINN(self.x, self.t, self.ic0, self.bc0, self.bc1)
+            self.x, self.t, self.ic0, self.bc0, self.bc1, self.eqn = self.page.getValues()
+            self.HE1D = PINN(self.x, self.t, self.ic0, self.bc0, self.bc1, self.eqn)
             self.page.value_entered = False
             self.HE1D.train()
             self.plot_3d_chart()
